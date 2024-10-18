@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m a third-year student, majoring in Software Engineering at University of Science, VNU-HCM
-- 🌱 I’m currently learning about web development and AI
-- 💬 Ask me about anything you like
-- 📫 How to reach me: vovannam050204@gmail.com
-- ⚡ Fun fact: I can remember the first 100 decimal places of π
+- 🔭 I’m a third-year student, majoring in Software Engineering at University of Science, VNU-HCM.
+- 🌱 I’m currently learning about web development and AI.
+- 💬 Ask me about anything you like.
+- 📫 How to reach me: vovannam050204@gmail.com.
+- ⚡ Fun fact: I can remember the first 100 digits of π.
