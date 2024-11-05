@@ -17,5 +17,3 @@ Here are some ideas to get you started:
 
 - 🔭 I’m a third-year student, majoring in Software Engineering at University of Science, VNU-HCM.
 - 🌱 I’m currently learning about web development and AI.
-- 💬 Ask me about anything you like.
-- ⚡ Fun fact: I can recite the first  50 digits of π.
