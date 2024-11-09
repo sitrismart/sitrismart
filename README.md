@@ -1,4 +1,4 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
 
 <!--
 **vovannam0502/vovannam0502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m a third-year student, majoring in Software Engineering at University of Science, VNU-HCM.
-- 🌱 I’m currently learning about web development and AI.
+### Hi, welcome to my profile. My full name is Vo Van Nam.
+
+- 🔭 I’m a junior, majoring in Software Engineering at [University of Science, VNU-HCM](https://www.hcmus.edu.vn/).
+- 🌱 I’m currently learning about software development and artificial intelligence.
+- 📫 How to reach me: [Kem Da Khong Duong](https://www.facebook.com/profile.php?id=100068012270749).
