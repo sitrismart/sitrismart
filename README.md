@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning about software development and artificial intelligence.
 - 📫 How to reach me: [Kem Da Khong Duong](https://www.facebook.com/profile.php?id=100068012270749).
 
-<img src="sucrose.jpg" style="width: 100%">
+<img src="sucrose.jpg" style="width: 100%; border-radius: 10px">
