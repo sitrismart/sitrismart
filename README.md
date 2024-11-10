@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi, welcome to my profile. My full name is Vo Van Nam.
+## Hi, welcome to my profile. My full name is Vo Van Nam.
 
-- 🔭 I’m a junior, majoring in Software Engineering at [University of Science, VNU-HCM](https://www.hcmus.edu.vn/).
-- 🌱 I’m currently learning about software development and artificial intelligence.
+- 🔭 I am junior, majoring in Software Engineering at [University of Science, VNU-HCM](https://www.hcmus.edu.vn/).
+- 🌱 I am learning about software development and artificial intelligence.
 - 📫 How to reach me: [Kem Da Khong Duong](https://www.facebook.com/profile.php?id=100068012270749).
 
 <img src="sucrose.jpg" style="width: 100%">
