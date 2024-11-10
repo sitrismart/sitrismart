@@ -21,4 +21,5 @@ Here are some ideas to get you started:
 - I am learning about software development and artificial intelligence.
 - You can contact me via [my profile](https://www.facebook.com/profile.php?id=100068012270749).
 
-<img src="sucrose.jpg" style="width: 100%">
+![Sucrose](sucrose.jpg)
+
