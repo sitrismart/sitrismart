@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ## Hi, my name is Nam. Welcome to my profile.
 
-- I'm a junior, majoring in Software Engineering at [University of Science, VNU-HCM](https://www.hcmus.edu.vn/).
-- I'm learning about Software development and Artificial Intelligence.
+- Junior at [University of Science, VNU-HCM](https://www.hcmus.edu.vn/), majoring in Software Engineering.
+- I am learning about Software development and Artificial Intelligence.
 - Contact me via [my profile](https://www.facebook.com/profile.php?id=100068012270749).
 
 ![Sucrose](sucrose.jpg)
