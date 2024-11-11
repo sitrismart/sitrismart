@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi, my name is Nam. Welcome to my profile. Have a good day!
+## Hi, my name is Nam. Welcome to my profile.
 
-- I am junior, majoring in Software Engineering at [University of Science, VNU-HCM](https://www.hcmus.edu.vn/).
-- I am learning about software development and artificial intelligence.
-- You can contact me via [my profile](https://www.facebook.com/profile.php?id=100068012270749).
+- I'm a junior, majoring in Software Engineering at [University of Science, VNU-HCM](https://www.hcmus.edu.vn/).
+- I'm learning about Software development and Artificial Intelligence.
+- Contact me via [my profile](https://www.facebook.com/profile.php?id=100068012270749).
 
 ![Sucrose](sucrose.jpg)
 
