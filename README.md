@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi, my name is Nam. Welcome to my profile.
+## Nice to meet you. Welcome to my profile. You can call me Sora.
 
 - Junior at [University of Science, VNU-HCM](https://www.hcmus.edu.vn/), majoring in Software Engineering.
 - I am learning about Software development and Artificial Intelligence.
