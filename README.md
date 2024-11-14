@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Nice to meet you. Welcome to my profile. You can call me Sora.
+## About me
+- Hi, I'm Sora, a student majoring in Software Engineering at University of Science, VNU-HCM.
+- Currently, I'm learning about Software Development and Artificial Intelligence.
+- You can contact me via my profile.
 
-- Junior at [University of Science, VNU-HCM](https://www.hcmus.edu.vn/), majoring in Software Engineering.
-- I am learning about Software development and Artificial Intelligence.
-- Contact me via [my profile](https://www.facebook.com/profile.php?id=100068012270749).
-
-![Sucrose](sucrose.jpg)
-
+## My skills
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,html,css,js,tailwindcss,react,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgresql,docker,git,github,npm,figma)](https://skillicons.dev)
