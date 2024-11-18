@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## About Me
 I'm Sora, a student majoring in Software Engineering at University of Science, VNU-HCM.  
-Currently, I'm learning about Software Development and Artificial Intelligence.  
+Currently, I'm learning about Web Development and Artificial Intelligence.  
 
 ## What I'm Learning
 [![My Skills](https://skillicons.dev/icons?i=cpp,python,html,css,js,tailwindcss,react,nodejs)](https://skillicons.dev)
