@@ -15,12 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi 👋
-
 ## About Me
 I'm Sora, a student majoring in Software Engineering at University of Science, VNU-HCM.  
-Currently, I'm learning about Web Development and Artificial Intelligence.  
+Currently, I'm learning about Web Development and Artificial Intelligence.
 
 ## What I'm Learning
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,html,css,js,tailwindcss,react,nodejs)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgresql,docker,git,github,npm,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,html,css,js,ts,tailwindcss,express,react,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgresql,docker,git,github,anaconda,npm,figma,vercel)](https://skillicons.dev)
