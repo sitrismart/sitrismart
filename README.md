@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
-I'm a student, majoring in Software Engineering at University of Science, VNU-HCM.  
+I'm Sitri, a student majoring in Software Engineering at University of Science, VNU-HCM.  
 Currently, I'm learning about Web Development and Artificial Intelligence.
 
 ## What I'm Learning
