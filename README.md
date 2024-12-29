@@ -20,5 +20,5 @@ I'm Sitri, a third-year student majoring in Software Engineering at University o
 Currently, I'm learning about Web Development and Artificial Intelligence.
 
 ## What I'm Learning
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,html,css,js,ts,tailwindcss,express,react,nodejs)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgresql,docker,git,github,anaconda,npm,figma,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,html,css,js,tailwindcss,express,react,nodejs)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,docker,git,github,anaconda,npm,figma,vercel)](https://skillicons.dev)
