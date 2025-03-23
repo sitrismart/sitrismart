@@ -21,4 +21,4 @@ Currently, I'm learning about Web Development, Artificial Intelligence and Cloud
 
 ## What I'm Learning
 [![My Skills](https://skillicons.dev/icons?i=cpp,py,html,css,js,ts,tailwindcss,express,react,nodejs)](https://skillicons.dev)  
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgresql,docker,git,github,npm,anaconda,figma,vercel,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgresql,docker,git,github,npm,aws,figma,vercel,prisma)](https://skillicons.dev)
