@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About Me
-I'm a third-year student, majoring in Software Engineering at University of Science, VNU-HCM.  
-Now I'm learning about Web Development and Artificial Intelligence.
+### About Me
+I am about to graduate in Software Engineering from University of Science, VNU-HCM.  
+Now I'm learning English, Web Development and Artificial Intelligence.  
+
 <!--
 ## What I'm Learning
 [![My Skills](https://skillicons.dev/icons?i=cpp,py,html,css,js,ts,tailwindcss,express,react,nodejs)](https://skillicons.dev)  
