@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## About Me
 I'm a third-year student, majoring in Software Engineering at University of Science, VNU-HCM.  
-Currently, I'm learning about Web Development and Artificial Intelligence.
+Now I'm learning about Web Development and Artificial Intelligence.
 <!--
 ## What I'm Learning
 [![My Skills](https://skillicons.dev/icons?i=cpp,py,html,css,js,ts,tailwindcss,express,react,nodejs)](https://skillicons.dev)  
