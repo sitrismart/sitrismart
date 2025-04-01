@@ -16,11 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ### About Me
-I am about to graduate in Software Engineering from University of Science, VNU-HCM.  
-Now I'm learning English, Web Development and Artificial Intelligence.  
+I'm about graduate in Software Engineering from University of Science, VNU-HCM.  
+Now I'm learning about Web Development and Artificial Intelligence.  
 
-<!--
-## What I'm Learning
-[![My Skills](https://skillicons.dev/icons?i=cpp,py,html,css,js,ts,tailwindcss,express,react,nodejs)](https://skillicons.dev)  
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgresql,docker,git,github,npm,aws,figma,vercel,prisma)](https://skillicons.dev)
--->
+### What I'm Learning
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,html,css,js,tailwindcss,express,react,nodejs,mysql,mongodb,docker,git,github,figma)](https://skillicons.dev)
