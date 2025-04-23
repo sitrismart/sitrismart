@@ -20,5 +20,8 @@ I'm about graduate in Software Engineering from University of Science, VNU-HCM.
 Now I'm learning about Web Development and Artificial Intelligence.  
 
 ### What I'm Learning
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwindcss,express,react,nodejs,mongodb,postgresql,docker,git,figma)](https://skillicons.dev)
+<!--
 [![My Skills](https://skillicons.dev/icons?i=cpp,py,html,css,js,ts,tailwindcss,express,react,nodejs)](https://skillicons.dev)  
 [![My Skills](https://skillicons.dev/icons?i=mongodb,postgresql,docker,git,github,npm,aws,figma,vercel,prisma)](https://skillicons.dev)
+-->
